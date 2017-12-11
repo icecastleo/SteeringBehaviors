@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Boar
+  m_Controller: {fileID: 9100000, guid: cd288103bb582c74b9dbe9906f8b42b4, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 4bfeedca7b15c2845a2b76dbf5ee640d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 30b550987703e324787deb0bd295bd3c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3e3a24a497f53eb459dc763f21fdf09b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a5485674b48481e43a176b617bf45022, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a79af7ff4e3c29b44982e320452c7213, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7ce1790356d2a0c4fa32a76565c42016, type: 2}

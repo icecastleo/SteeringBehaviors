@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: 0f68e202740e20345a101b51d50c24b5
+timeCreated: 1507521900
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_0
+    21300002: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_1
+    21300004: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_2
+    21300006: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_3
+    21300008: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_4
+    21300010: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_5
+    21300012: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_6
+    21300014: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_7
+    21300016: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_8
+    21300018: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_9
+    21300020: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_10
+    21300022: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_11
+    21300024: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_12
+    21300026: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_13
+    21300028: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_14
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 2
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 62
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 110
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 109
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 109
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 109
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 109
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 109
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_6
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 109
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 43
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 43
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 43
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_10
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 43
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 43
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_12
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 43
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 43
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_ground_textures__b_w__b2_w2__rip_by_warox1994-d64h6uf_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 11
+        width: 70
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
